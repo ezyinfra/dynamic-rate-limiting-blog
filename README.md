@@ -4,7 +4,7 @@ This code is a simplified version of Dynamic Rate Limiting implemented for a Rea
 
 It allows you to set rate limits for different routes and based on Client usage plan, restricts the number of requests a client can make to a route.
 
-You can read the blog here [Dynamic Rate Limiting](https://ezyinfra.com/dynamic-rate-limiting/)
+You can read the blog here [Dynamic Rate Limiting](https://blog.ezyinfra.dev/implementing-real-time-dynamic-rate-limiting-for-apis-using-nginx-redis-d69d0b5e8093)
 
 ## Features
 
