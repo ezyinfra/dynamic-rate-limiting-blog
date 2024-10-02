@@ -6,6 +6,12 @@ It allows you to set rate limits for different routes and based on Client usage 
 
 You can read the blog here [Dynamic Rate Limiting](https://blog.ezyinfra.dev/implementing-real-time-dynamic-rate-limiting-for-apis-using-nginx-redis-d69d0b5e8093)
 
+## Architecture
+
+![Architecture](./images/architecture.gif)
+
+![Sliding Window](./images/sliding-window.gif)
+
 ## Features
 
 - Set rate limits for different routes based on client usage plan
