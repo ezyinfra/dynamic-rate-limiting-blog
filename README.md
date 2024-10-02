@@ -1,12 +1,14 @@
 # dynamic-rate-limiting-blog
 
-Dynamic Rate Limiting Blog
+This code is a simplified version of Dynamic Rate Limiting implemented for a Real time usecase.
 
-This blog is a simple implementation of dynamic rate limiting using Redis. It allows you to set rate limits for different routes and based on Client usage plan restricts the number of requests a client can make to a route.
+It allows you to set rate limits for different routes and based on Client usage plan, restricts the number of requests a client can make to a route.
+
+You can read the blog here [Dynamic Rate Limiting](https://ezyinfra.com/dynamic-rate-limiting/)
 
 ## Features
 
-- Set rate limits for different routes
+- Set rate limits for different routes based on client usage plan
 - Use Redis to store rate limit data
 - Implements Sliding Window Rate Limiting algorithm
 
